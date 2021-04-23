@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on a project to save the environment from Ozone Depleting Substances. 🤫
 - 🌱 I’m currently learning the ethics of scientific research writing.
 - 💬 Ask me about Machine Learning, Computer Vision and Embedded Systems.
-- 📫 How to reach me: sam.mwamburi@gmail.com
 - ⚡ Fun fact: The Mona Lisa has no eyebrows.
 
 <center>
