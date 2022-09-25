@@ -2,8 +2,7 @@
 
 <!--
 **mghendi/mghendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🔭 I’m currently working on a project to save the environment from Ozone Depleting Substances. 🤫
+ 
 - 🌱 I’ve just completed a course on the ethics of scientific research writing.
 - 💬 Ask me about Machine Learning, Computer Vision and Microcontrollers.
 - ⚡ Fun fact: The Mona Lisa has no eyebrows.
