@@ -3,7 +3,7 @@
 <!--
 **mghendi/mghendi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
  
-- 🌱 I'm currently working alongside the Analytics for a Better World Intitute, UvA, to optimize plastic waste collection in Nairobi.
+- 🌱 Currently working alongside the Analytics for a Better World Intitute, UvA, to optimize plastic waste collection in Nairobi.
 - 💬 Ask me about Machine Learning and Microcontrollers.
 - 🔬 I'm also learning how to put down everything i've learnt and discovered so far into notes for nerds.😄
 - ⚡ Fun fact: The Mona Lisa has no eyebrows.
