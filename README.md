@@ -1,5 +1,3 @@
-- 💬 Ask me about Machine Learning and Microcontrollers.
-- 🔬 On a quest to put down everything i've discovered so far into notes for nerds.
 - ⚡ Fun fact: The Mona Lisa has no eyebrows.
 - 🎵 Currently listening to:
 
